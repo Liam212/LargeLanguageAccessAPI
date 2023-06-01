@@ -1,0 +1,5 @@
+openai
+requests
+fastapi
+pydantic
+uvicorn[standard]
